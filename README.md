@@ -32,5 +32,5 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/truck-driver-portfolio.git
+   git clone https://github.com/Shadow-Walker360/truck-driver-portfolio.git
    cd truck-driver-portfolio
